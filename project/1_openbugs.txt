@@ -1,0 +1,10 @@
+Jeffery
+		mean	sd	MC_error	val2.5pc	median	val97.5pc	start	sample
+	p	0.1777	0.06834	7.63E-4	0.06612	0.17	0.332	1	10000
+
+Mother's
+		mean	sd	MC_error	val2.5pc	median	val97.5pc	start	sample
+	p	0.3688	0.03924	3.912E-4	0.2933	0.3681	0.4486	1	10000
+	
+Realistic	mean	sd	MC_error	val2.5pc	median	val97.5pc	start	sample
+	p	0.2592	0.05567	5.791E-4	0.1584	0.2564	0.3774	1	10000
